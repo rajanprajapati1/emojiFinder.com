@@ -3,22 +3,29 @@
 ## Overview
 
 Emoji Finder is a web application built with React that allows users to easily search and discover emojis. It comes with various features, including user authentication using OAuth, emoji searching, categorization, dark mode, light mode, and more.
-1 .Dark Mode Page
-![Emoji Finder](https://ibb.co/CPTdb4p)
-2 .Light Mode Page
-![Emoji Finder](https://ibb.co/Bjcdjt4)
-3.Search Page
-![Emoji Finder](https://ibb.co/Q6hxPr1)
-4.Home Page
-![Emoji Finder](https://ibb.co/SXSVCXc)
-5.loading Page
-![Emoji Finder](https://ibb.co/N2ccLyT)
-6.Login Page
-![Emoji Finder](https://ibb.co/yqCgSrJ)
-7.Auth Page
-![Emoji Finder](https://ibb.co/6BdrqCV)
-6.Single Emoji  Page
-![Emoji Finder](https://ibb.co/YDxqyGg)
+1. **Dark Mode Page**
+   ![Dark Mode Page](https://i.ibb.co/hYt5Brx/Screenshot-76.png)
+
+2. **Light Mode Page**
+   ![Light Mode Page](https://i.ibb.co/YRhJWbC/Screenshot-77.png)
+
+3. **Search Page**
+   ![Search Page](https://i.ibb.co/q97X9d0/Screenshot-78.png)
+
+4. **Home Page**
+   ![Home Page](https://i.ibb.co/30VPpBL/Screenshot-80.png)
+
+5. **Loading Page**
+   ![Loading Page](https://i.ibb.co/Fbp8TbX/Screenshot-81.png)
+
+6. **Login Page**
+   ![Login Page](https://i.ibb.co/s988FVW/Screenshot-82.png)
+
+7. **Auth Page**
+   ![Auth Page](https://i.ibb.co/njyQCFS/Screenshot-83.png)
+
+8. **Single Emoji Page**
+   ![Single Emoji Page](https://i.ibb.co/YZrPVsY/Screenshot-84.png)
 
 ## Features
 
